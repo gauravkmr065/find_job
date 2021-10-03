@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/find_job%20/static/css/main.d33e357a.chunk.css",
+    "main.js": "/find_job%20/static/js/main.b7c522fc.chunk.js",
+    "main.js.map": "/find_job%20/static/js/main.b7c522fc.chunk.js.map",
+    "runtime-main.js": "/find_job%20/static/js/runtime-main.87f2b776.js",
+    "runtime-main.js.map": "/find_job%20/static/js/runtime-main.87f2b776.js.map",
+    "static/js/2.e32aca8b.chunk.js": "/find_job%20/static/js/2.e32aca8b.chunk.js",
+    "static/js/2.e32aca8b.chunk.js.map": "/find_job%20/static/js/2.e32aca8b.chunk.js.map",
+    "static/js/3.03f17a06.chunk.js": "/find_job%20/static/js/3.03f17a06.chunk.js",
+    "static/js/3.03f17a06.chunk.js.map": "/find_job%20/static/js/3.03f17a06.chunk.js.map",
+    "index.html": "/find_job%20/index.html",
+    "static/css/main.d33e357a.chunk.css.map": "/find_job%20/static/css/main.d33e357a.chunk.css.map",
+    "static/js/2.e32aca8b.chunk.js.LICENSE.txt": "/find_job%20/static/js/2.e32aca8b.chunk.js.LICENSE.txt",
+    "static/media/expertia.dd9879d2.png": "/find_job%20/static/media/expertia.dd9879d2.png",
+    "static/media/globe.a0786033.png": "/find_job%20/static/media/globe.a0786033.png",
+    "static/media/laptopDashboard.5a0e1d7b.png": "/find_job%20/static/media/laptopDashboard.5a0e1d7b.png",
+    "static/media/layergif.bd53c7e8.gif": "/find_job%20/static/media/layergif.bd53c7e8.gif",
+    "static/media/logo.6ce24c58.svg": "/find_job%20/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87f2b776.js",
+    "static/js/2.e32aca8b.chunk.js",
+    "static/css/main.d33e357a.chunk.css",
+    "static/js/main.b7c522fc.chunk.js"
+  ]
+}
